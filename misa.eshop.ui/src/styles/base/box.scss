@@ -1,0 +1,36 @@
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.border-radius-4px{
+    border-radius: 4px;
+}
+
+.mg-8px{
+    margin: 8px;
+}
+
+.mgr-8px{
+    margin-right: 8px;
+}
+
+.mgl-8px{
+    margin-left: 8px;
+}
+
+.mgr-16px{
+    margin-right: 16px;
+}
+
+.mgl-16px{
+    margin-left: 16px;
+}
+
+.pd-8px{
+    padding: 8px;
+}
