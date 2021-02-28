@@ -1,0 +1,21 @@
+@import url('setup/_variables.scss');
+@import url('setup/_mixins.scss');
+@import url('setup/_nomalize.scss');
+@import url('setup/_typography.scss');
+@import url('base/link.scss');
+@import url('base/icon.scss');
+@import url('base/box.scss');
+@import url('base/button.scss');
+@import url('base/input.scss');
+@import url('layout/Header.scss');
+@import url('layout/Navbar.scss');
+@import url('layout/Content.scss');
+
+
+body{
+    font-family: sans-serif;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    cursor: default;
+}
