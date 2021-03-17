@@ -679,11 +679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.DAL\\MISA.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.DAL\\MISA.DAL.csproj",
       "projectName": "MISA.DAL",
-      "projectPath": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.DAL\\MISA.DAL.csproj",
+      "projectPath": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.DAL\\MISA.DAL.csproj",
       "packagesPath": "C:\\Users\\nqdat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.DAL\\obj\\",
+      "outputPath": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nqdat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -700,8 +700,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj": {
-              "projectPath": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj"
+            "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj": {
+              "projectPath": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj"
             }
           }
         }
@@ -748,7 +748,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

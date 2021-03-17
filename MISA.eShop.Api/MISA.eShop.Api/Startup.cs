@@ -68,6 +68,7 @@ namespace MISA.CukCuk.Api
                 var serviceResult = new ServiceResult();
                 serviceResult.devMsg = exception.Message;
                 serviceResult.userMsg = MISA.Common.Properties.Resources.UserMsg_Exception;
+                serviceResult.MISACode = (int)MISACode.ServerError;
                 await context.Response.WriteAsJsonAsync(serviceResult);
             }));
             app.UseRouting();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj": {}
+    "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj": {
+    "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj",
+        "projectUniqueName": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj",
         "projectName": "MISA.Common",
-        "projectPath": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj",
+        "projectPath": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj",
         "packagesPath": "C:\\Users\\nqdat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.Common\\obj\\",
+        "outputPath": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nqdat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

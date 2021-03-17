@@ -698,11 +698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.BLL\\MISA.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.BLL\\MISA.BLL.csproj",
       "projectName": "MISA.BLL",
-      "projectPath": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.BLL\\MISA.BLL.csproj",
+      "projectPath": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.BLL\\MISA.BLL.csproj",
       "packagesPath": "C:\\Users\\nqdat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.BLL\\obj\\",
+      "outputPath": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nqdat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -719,11 +719,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj": {
-              "projectPath": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj"
+            "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj": {
+              "projectPath": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.Common\\MISA.Common.csproj"
             },
-            "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.DAL\\MISA.DAL.csproj": {
-              "projectPath": "C:\\Users\\nqdat\\Desktop\\test2\\MISA.ESHOP\\MISA.eShop.Api\\MISA.DAL\\MISA.DAL.csproj"
+            "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.DAL\\MISA.DAL.csproj": {
+              "projectPath": "C:\\Users\\nqdat\\dev\\MISA.eShop\\MISA.eShop.Api\\MISA.DAL\\MISA.DAL.csproj"
             }
           }
         }
@@ -752,7 +752,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

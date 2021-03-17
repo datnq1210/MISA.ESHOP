@@ -82,3 +82,15 @@ C:\Users\nqdat\Desktop\test2\MISA.ESHOP\MISA.eShop.Api\MISA.DAL\obj\Debug\netcor
 C:\Users\nqdat\Desktop\test2\MISA.ESHOP\MISA.eShop.Api\MISA.DAL\obj\Debug\netcoreapp3.1\MISA.DAL.csproj.CopyComplete
 C:\Users\nqdat\Desktop\test2\MISA.ESHOP\MISA.eShop.Api\MISA.DAL\obj\Debug\netcoreapp3.1\MISA.DAL.dll
 C:\Users\nqdat\Desktop\test2\MISA.ESHOP\MISA.eShop.Api\MISA.DAL\obj\Debug\netcoreapp3.1\MISA.DAL.pdb
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\bin\Debug\netcoreapp3.1\MISA.DAL.deps.json
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\bin\Debug\netcoreapp3.1\MISA.DAL.dll
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\bin\Debug\netcoreapp3.1\MISA.DAL.pdb
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\bin\Debug\netcoreapp3.1\MISA.Common.dll
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\obj\Debug\netcoreapp3.1\MISA.DAL.csprojAssemblyReference.cache
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\obj\Debug\netcoreapp3.1\MISA.DAL.AssemblyInfoInputs.cache
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\obj\Debug\netcoreapp3.1\MISA.DAL.AssemblyInfo.cs
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\obj\Debug\netcoreapp3.1\MISA.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\obj\Debug\netcoreapp3.1\MISA.DAL.csproj.CopyComplete
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\obj\Debug\netcoreapp3.1\MISA.DAL.dll
+C:\Users\nqdat\dev\MISA.eShop\MISA.eShop.Api\MISA.DAL\obj\Debug\netcoreapp3.1\MISA.DAL.pdb
